@@ -1,0 +1,7 @@
+.footer-maincontainer{
+    display: flex;
+    margin-top: 90px;
+    max-width: 1600px;
+    background-image: url("../../Assets/Images/img_footer.png");
+    background-position: 10% 28%;
+}

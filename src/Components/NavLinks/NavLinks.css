@@ -1,0 +1,26 @@
+.navlinks{
+    height: 51px;
+    align-items: baseline;
+}
+.navlinks p {
+    font-size: 17px;
+    letter-spacing: 0.51px;
+    line-height: 53px;
+    color: #000000;
+    margin-right: 40px;
+    vertical-align: super;
+    font-family: 'Teko';
+    font-weight: 600;
+
+}
+
+.navlinks p:nth-child(3) {
+    border-right: 1px solid #000000;
+    padding-right: 25px;
+}
+
+.language{
+    font-family: 'Teko';
+    font-weight: 600;
+}
+

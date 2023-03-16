@@ -1,0 +1,90 @@
+.yr-left-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sec3-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 70px;
+}
+.yr-left-content{
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.yr-left-challenge{
+    line-height: 53px;
+    letter-spacing: 0.51px;
+    font-size: 17px;
+    font-family: 'Teko';
+}
+
+.yr-left-no{
+    line-height: 20px;
+    color: #e4003b;
+    margin: 100px 0;
+    font-size: 280px;
+    font-family: 'Teko';
+    margin-bottom: 75px;
+    font-weight: 600;
+}
+
+.yr-left-text{
+    line-height: 58px;
+    width: 314px;
+    margin-bottom: 30px;
+    font-size: 56px;
+    font-family: 'Teko';
+    font-weight: 600;
+}
+
+.yr-left-text > .red{
+    color: #e4003b;
+}
+
+.yr-left-card-cross{
+    display: flex;
+    align-items: center;
+}
+
+.yr-left-rotate-text{
+    position: absolute;
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    color: #fff;
+    letter-spacing: 5.22px;
+    font-size: 110px;
+    transform: rotate(180deg);
+    font-family: 'Teko';
+    font-weight: 600;
+    right: 36px;
+    top: 15px;
+    margin: 0;
+}
+
+.yr-left-card-cross{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    bottom: 115px;
+    left: 0;
+
+}
+
+.yr-left-card-cross-text{
+    font-family: 'Teko';
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 0.51px;
+}
+
+.fa-xmark{
+    color: #e4003b;
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 20px;
+}

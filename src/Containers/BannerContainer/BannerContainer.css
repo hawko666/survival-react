@@ -1,0 +1,16 @@
+.mainContent{
+    display: flex;
+    max-height: 938px;
+}
+
+.leftContent{
+    display: flex;
+    flex: 25%;
+    position: relative;
+}
+
+.rightContent{
+    display: flex;
+    flex: 75%;
+    position: relative;
+}

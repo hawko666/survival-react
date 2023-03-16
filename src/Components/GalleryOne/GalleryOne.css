@@ -1,0 +1,53 @@
+.g-container-tent{
+    margin-right: 40px;
+    position: relative;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.25);
+    width: 375px;
+}
+
+.g-container-icon{
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    z-index: 1;
+    color: #fff;
+    font-size: 30px;
+}
+
+.fa-youtube{
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.g-container-tent-img{
+    box-shadow: 0px 0px 50px 17px rgba(0,0,0,0.44);
+    width: 100%;
+}
+
+.g-container-body{
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    color: #fff;
+    left: 40px;
+}
+
+.g-container-date-place{
+    font-family: "Teko", sans-serif;
+    font-size: 14px;
+    color:#fff;
+}   
+
+.g-container-text{
+    line-height: 36px;
+    margin-bottom: 25px;
+    width: 413px;
+    margin-top: 10px;
+    width: 100%;
+    font-family: "Teko", sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+}

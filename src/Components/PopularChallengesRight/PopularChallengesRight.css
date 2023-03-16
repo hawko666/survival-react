@@ -1,0 +1,81 @@
+.pc-right-endur{
+    font-family: 'Teko';
+    font-size: 130px;
+    font-weight: 800;
+    letter-spacing: 5.22px;
+    line-height: 100px;
+    color: #FFFFFF;
+    position: absolute;
+    z-index: -1;
+    right: 50%;
+    translate: 50%;
+    top: 20px;
+}
+
+.pc-right-01{
+    font-family: 'Teko';
+    font-size: 60px;
+    font-weight: 800;
+    letter-spacing: 0px;
+    line-height: 60px;
+    color: #E4003B;
+    position: absolute;
+    left: 0;
+    top: -10px;
+}
+
+.pc-right-img-container{
+    position: relative;
+}
+
+.pc-img-shoes{
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.pc-right-maincontainer{
+    margin-top: 30px;
+}
+
+.pc-img-shoes-shadow{
+    position: absolute;
+    top: 30px;
+    width: 100%;
+    left: 0;
+    z-index: 1;
+}
+
+.pc-mission{
+    font-family: 'Teko';
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 100px;
+}
+
+.pc-medium-para{
+    font-family: 'Teko';
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.pc-small-para{
+    padding-top: 10px;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 26px;
+    word-break: break-all;
+    letter-spacing: 0.28px;
+}
+
+.pc-right-text-container{
+    padding-left: 45px;
+    padding-right: 75.5px;
+}
+
+.pc-img-right-find-more{
+    padding-top: 20px;
+    width: 142.94px;
+}
+

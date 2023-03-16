@@ -1,0 +1,56 @@
+ .bannerImg{
+    width: 100%;
+}
+
+.s-banner{
+    width: 100%;
+}
+
+.s-img-banner{
+    height: 700px;
+    max-width: 950px;
+}
+
+.slider-container{
+    width: 100%;
+}
+
+.slider {
+    max-height: 700px;
+    max-width: 950px;
+    position: relative;
+}
+
+/* .slick-slide img {
+    width: 100%;
+    height: auto;
+} */
+
+.slick-prev {
+    position: absolute;
+    z-index: 1;
+    bottom: 135px;
+    right: 160px;
+    border: none;
+    background-color: #E4003B;
+    transform: rotate(270deg);
+    width: 66px;
+    height: 66px;
+} 
+
+.slick-prev img,
+.slick-next img {
+    width: 17px;
+}
+
+.slick-next {
+    position: absolute;
+    z-index: 1;
+    bottom: 69px;
+    right: 160px;
+    border: none;
+    background-color: #EDF0F2;
+    transform: rotate(90deg);
+    width: 66px;
+    height: 66px;
+} 

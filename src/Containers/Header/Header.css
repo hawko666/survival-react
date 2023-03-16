@@ -1,0 +1,47 @@
+.headerContent{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.navlinks{
+    display: flex;
+}
+
+.line{
+    border-right: 1px solid black ;
+    width: 1px;
+    height: 51px;
+    margin-right: 37px;
+}
+.language{
+    margin-right: 53px;
+}
+.profile-icon{
+    margin-right: 56px;
+    background-image: url("../../Assets/Images/Ellipse.png");
+    width: 28px;
+    height: 28px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.search-icon{
+    margin-top: 4px;
+}
+.search-icon-btn{
+    width: 46px;
+    height: 46px;
+    border: none;
+    background: none;
+    background-color: red;
+    border-radius: 50%;
+}
+.profile-search-icon{
+    margin-right: 51px;
+    display: flex;
+    align-items: center;
+}
+
+.s-img-logo{
+    width: 201px;
+    height: 93px;
+}

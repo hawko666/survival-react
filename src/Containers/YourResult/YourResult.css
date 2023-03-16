@@ -1,0 +1,26 @@
+.yr-mainContent{
+    display: flex;
+    margin-top: 145px;
+    margin-right: 75px;
+}
+
+.yr-leftContent{
+    display: flex;
+    flex: 40%;
+    position: relative;
+}
+
+.yr-rightContent{
+    display: flex;
+    position: relative;
+    flex: 60%;
+}
+
+.yr-right-Arrow{
+    z-index: 5;
+    position: absolute;
+    bottom: 46px;
+    width: 226.75px;
+    height: 151.17px;
+    left: -74px;
+}

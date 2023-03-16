@@ -1,0 +1,7 @@
+.a-maincontainer{
+    display: flex;
+    margin-top: 141px;
+    margin-bottom: 175px;
+    justify-content: space-between;
+    padding-right: 75px;
+}

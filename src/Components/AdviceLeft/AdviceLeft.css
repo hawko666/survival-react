@@ -1,0 +1,13 @@
+.a-left-container-text{
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    transform: rotate(180deg);
+    width: 60%;
+    line-height: 130px;
+    letter-spacing: 5.22px;
+    color: #e4003b;
+    font-family: 'Teko';
+    font-weight: 600;
+    font-size: 134px;
+    margin: 0;
+}

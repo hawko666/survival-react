@@ -1,0 +1,25 @@
+.s-img-banner-side{
+    display: flex;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.s-banner-side{
+    padding-top: 118px;
+}
+
+.s-img-banner-side-arrow{
+    position: absolute;
+    bottom: 50px;
+    right: 8px;
+}
+
+.s-img-banner-side-arrow{
+    height: 226.75px;
+    width: 151.17px;
+}
+
+.s-img-banner-side-social{
+    width: 19px;
+}
