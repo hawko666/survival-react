@@ -41,68 +41,20 @@ const HomePage = () => {
     }
     const Mission = {
         data: {
-            // "img": Images.img_shoes,
             "heading": 'Mission',
             "subHeading": 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy tempor.',
-            "description": 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.',
-            // 'more': Images.btn_more,
+            "description": 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
         }
     }
-    // const Chance = {
-    //     data: {
-    //         "img1": Images.completedChallenges,
-    //         "img2": Images.thirteen,
-    //         "img3": Images.youHave,
-    //         "img4": Images.btn_more,
-    //         "img5": Images.yourResult,
-    //     }
-    // }
+   
     const shareResult = {
         data: {
-            // "img1": Images.person,
-            // "rectangle": Images.rectangle,
             "heading": "SHARE YOUR RESULTS ON SOCIAL MEDIA",
             "description": "Lorem ipsum dolor sit amet, consetetur diam nonumy tempor.",
             "more": "SEE RESULTS FROM YOUR FRIENDS",
         }
     }
-    // const advice = {
-    //     data: {
-    //         "img1": Images.advice
-    //     }
-    // }
-    // const adventure = {
-    //     data: {
-    //         "adventureImg": Images.adventure,
-    //         "pagination": Images.pagination,
-    //         "surviveMode": Images.survival_mode,
-    //         "loremText": Images.Lorem_ipsum_text,
-    //         "nextButton": Images.btn_next_ACTIVE,
-    //         "prevButton": Images.btn_next_passive,
-    //         "more": "MORE",
-    //     }
-    // }
-    // const camping = {
-    //     data :[
-    //     {
-    //         "backgroungImg": Images.forest_house,
-    //         "icon": Images.ico_youtube,
-    //         "date": Images.ShelterMaking,
-    //         "text": Images.lorem_white
-    //     },
-    //     {
-    //         "backgroungImg": Images.tea,
-    //         "icon": Images.pictures,
-    //         "date": Images.ShelterMaking,
-    //         "text": Images.lorem_white
-    //     },
-    //     // {
-    //     //     "backgroungImg": Images.gallery,
-    //     //     "text": Images.lorem_black,
-    //     //     "more": "MORE",
-    //     // }
-    //     ]
-    // }
+    
     const footer = {
         data : {
             'challenges' : {
